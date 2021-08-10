@@ -1,0 +1,33 @@
+.navbar-brand{
+	color: white;
+	font-size: 25px;
+	margin-top: 5px;
+	margin-left:  5px;
+}
+.text-center{
+	text-align: center;
+	margin-top: 15px;
+	margin-bottom: 15px;
+
+}
+
+.p2{
+	background-color: gray;
+	border: 2px solid black;
+	background-color: lightgray;
+	width: auto;
+	margin: 20px;
+	color: black;
+	font-family: sans-serif;
+
+
+
+}
+
+#p3{
+	font-size: 15px;
+	text-align: center;
+	font-weight: bold;
+	
+	
+}
